@@ -20,3 +20,23 @@ Contents
 
    usage
    api
+   executive summary
+   installation
+   data source
+   cleaning and preprocessing
+   model
+   results
+   use case
+   ethical scorecard
+   acknowledgements
+   references
+   about
+
+
+About
+*****
+This project was created for the Erdős Institute's Fall 2023 Data Science Bootcamp.
+
+Github: [www.github.com/kgrillaert/preterm_birth]
+
+License: MIT 
