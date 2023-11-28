@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Preterm Birth Prediction'
+copyright = '2023, Grillaert et al'
+author = 'K Grillaert, D Joshi, N Rahman, A Sutherland, K Zvolanek'
 
 release = '0.1'
 version = '0.1.0'
