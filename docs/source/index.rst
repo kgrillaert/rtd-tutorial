@@ -14,9 +14,9 @@ The etiology of preterm birth is likely a complex interaction between biological
 
 The current medical system focuses more on mitigation of the health consequences of a preterm birth than on its prediction and prevention. However, machine learning has the potential to support medical professionals with the early identification of a pregnancy likely to proceed to a preterm delivery. Data related to preterm birth can come from sources such as electronic health records, surveys, laboratory results, electrohysterographs, ultrasounds, genome sequences, and other diagnostic procedures. In short, it is noisy. While this is extremely challenging for a human to parse, machine learning models can be trained to identify patterns in large banks of data and to make predictions on new data. 
 
+There have been several attempts to develop machine learning models to predict preterm birth. Promising results have been found with the use of cervical length images and electrohysterograph waveforms. However, these procedures are not routine for every pregnancy, and will not capture individuals who have limited access to health care. The most useful predictive model would be based on non-invasive, easily collectable, information. It should not require advanced medical access or a high amount of resources, and it should be available early on during a pregnancy so that there is enough time for intervention. 
 
-
-Therefore, by using a representative dataset and non-invasive metrics, and ensuring our model’s equitable performance across diverse racial and ethnic groups, we aim to contribute to a healthier start for all children.
+We aim to address this problem by creating a classifier that uses demographic and lifestyle factors that are non-invasive and routinely collected. By using a representative dataset, we will ensure that we include all people in the development of advan and ensuring our model’s equitable performance across diverse racial and ethnic groups, we aim to contribute to a healthier start for all children.
 
 Contents
 --------
