@@ -31,7 +31,7 @@ Contents
 
 About
 *****
-This project was created for the 'Erdős Institute <https://www.erdosinstitute.org/>' 'Data Science Bootcamp <https://www.erdosinstitute.org/programs/fall-2023/data-science-boot-camp>', Fall 2023. Group members are 'Katherine Grillaert <https://www.linkedin.com/in/kgrillaert/>', 'Divya Joshi <https://www.linkedin.com/in/divya-joshi-phd-candidate/>', 'Noah Rahman https://www.linkedin.com/in/noah-rahman-01504257/>', 'Alex Sutherland <https://www.linkedin.com/in/alexander-sutherland-math/>', and 'Kristina Zvolanek <https://www.linkedin.com/in/kristina-zvolanek/>'. 
+This project was created for the 'Erdős Institute <https://www.erdosinstitute.org/>'_ 'Data Science Bootcamp <https://www.erdosinstitute.org/programs/fall-2023/data-science-boot-camp>', Fall 2023. Group members are 'Katherine Grillaert <https://www.linkedin.com/in/kgrillaert/>', 'Divya Joshi <https://www.linkedin.com/in/divya-joshi-phd-candidate/>', 'Noah Rahman <https://www.linkedin.com/in/noah-rahman-01504257/>', 'Alex Sutherland <https://www.linkedin.com/in/alexander-sutherland-math/>', and 'Kristina Zvolanek <https://www.linkedin.com/in/kristina-zvolanek/>'. 
 
 View our five minute presentation.
 
