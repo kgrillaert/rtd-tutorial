@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Preterm Birth Prediction'
-copyright = '2023, Grillaert et al'
+copyright = '2023, Grillaert, Joshi, Rahman, Sutherland, Zvolanek'
 author = 'K Grillaert, D Joshi, N Rahman, A Sutherland, K Zvolanek'
 
 release = '0.1'
