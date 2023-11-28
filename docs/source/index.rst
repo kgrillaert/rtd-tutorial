@@ -4,6 +4,9 @@ The Silent Emergency - Preterm Birth Prediction
 
    “The world is facing a silent emergency. . . of preterm births.” - UNICEF
 
+Problem Statement
+=================
+
 Premature infants, those born before 37 weeks of gestation, are at risk for many negative, long-term health issues. If they survive, they may have difficulties with feeding, breathing, hearing, vision, and neurodevelopment. In The United States there were over 380,000 preterm infants born in 2022, approximately 10% of all births. The highest rates occured among Black women (14.6%), and lowest rates occurred among White women (9.4%) and Hispanic women (10.1%), which is a persistent trend. These rates have recently declined for White women yet remained unchanged for other groups. 
 
 While there are known risk factors for preterm birth, an individual's likelihood of delivering before 37 weeks is not well-understood. 
