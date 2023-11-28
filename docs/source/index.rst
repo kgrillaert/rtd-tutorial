@@ -13,7 +13,7 @@ Contents
 
    usage
    api
-   executive summary
+   executive_summary
    problem statement
    data description
    feature engineering
