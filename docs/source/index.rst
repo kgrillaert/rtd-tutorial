@@ -1,7 +1,8 @@
 The Silent Emergency - Preterm Birth Prediction
 ===================================
 
-::“The world is facing a silent emergency. . . of preterm births.” - UNICEF
+::
+   “The world is facing a silent emergency. . . of preterm births.” - UNICEF
 
 Premature infants, those born before 37 weeks of gestation, are at risk for many negative, long-term health issues. If they survive, they may have difficulties with feeding, breathing, hearing, vision, and neurodevelopment. The preterm birth rate in the United States is approximately 10% overall, with highest rates occurring among Black women (14.6%), and lowest rates occurring among White (9.4%) and Hispanic women (10.1%).2 These rates have recently declined for White women but remained unchanged for other groups. Under-representation in healthcare research contributes to racial and ethnic health disparities. Therefore, by using a representative dataset and non-invasive metrics, and ensuring our model’s equitable performance across diverse racial and ethnic groups, we aim to contribute to a healthier start for all children.
 
